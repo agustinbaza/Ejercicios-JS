@@ -10,6 +10,6 @@ if (x1>x2) {
     document.write(x2 + " "+ "es mayor");
 } 
 else {
-    document.write("los numeros ingresados son iguales")
+    document.write("los numeros ingresados son iguales");
 }
 
