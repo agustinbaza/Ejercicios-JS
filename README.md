@@ -1,5 +1,5 @@
 # EJERCITACIÓN DE JAVASCRIPT
-## A continuación muestro mis ejercicios realizados para practicar e introducirme a Javascript.
+A continuación muestro mis ejercicios realizados para practicar e introducirme a Javascript.
 
 
 ## CONSIGNA A CUMPLIR 📚
